@@ -1,89 +1,88 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Riley Stratton's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Riley Stratton
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="tel:435-494-8934">(435) 494-8934</a>
+| <a href="mailto:riley.s.stratton@outlook.com">riley.s.stratton@outlook.com</a>
+| <a href="https://www.linkedin.com/in/rileystratton/">LinkedIn</a>
+| <a href="https://github.com/RileyStratton">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Sep 2020 - Present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.44 GPA
+- Major: Computer Science
+- Minor: Computer Information Technology
+- Cyber Security Asociation Meeting Coordinator
 
+## Programming Projects
 
-## Related Experience
+`March 2021 - March 2022`
+__Legal Plotter__
 
-### Internships
+- Developed as a Python script and later refactored into a C# plugin for AutoCAD
+- Accepts user input legal description, parses and calculates points, and plots into AutoCAD
+- [Check out Legal Plotter on GitHub](https://github.com/rileystratton/legalplotter)
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Jan 2022`
+__Peer-to-Peer Messaging__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Developed in Python, utilizing peer-to-peer connections, tKinter GUI, and the Sockets library.
+- [Check out Peer-to-Peer Messaging on GitHub](https://github.com/rileystratton/networking)
 
-### Data Science Lead
+## Cyber Security Events
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Apr 2022`
+__PRCCDC__, Online
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Cyber defense "blue team" competition 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+__Capture the Flag Events__
+ 
+- `Jan 2022` __PicoMini:__ stenography and python script puzzles
+- `Feb 2022` __DiceCTF:__ cryptography and application debugging puzzles
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+## Work Experience
 
-### Data Science Consulting Team
+`Feb 2020 - Feb 2021`
+__ProValue Engineering__, CAD Engineering Assistant
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Designed subdivisions and other civil projects, balancing work between 5-10 projects
+- Constructed an original program to assist in drawing legal descriptions, saving 2-4 hours per project
+- Researched new strategies daily and instructed others in how to use these skills
+- Coordinated with managers daily, while working remotely to complete projects and assist others 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`Apr 2020 - Feb 2021`
+__Interstate Rock Products__, Heavy Machinery Operator
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Persevered through stressful conditions, such as 10+ hour days and temperatures over 100°
+- Adapted quickly to new machinery and jobsite situations, often switching jobsites monthly
+- Analyzed personal performance daily and applied new strategies to increase personal efficiency 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Volunteer Experience
 
+`Mar 2018 - Apr 2020`
+__Full-time Volunteer Representative__, Atlanta, Georgia
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Offered to teach life help lessons with 50+ people weekly
+- Developed skills to persevere through rejection by greater than 50% of people
+- Managed schedule to share life help lessons with up to 20 families per week
+- Motivated volunteers to try new strategies, which doubled performance indicators
+- Created spreadsheets to monitor usage of new strategies by 15-30 volunteers 
+- Reported on status of projects with online tools 2-3 times a day and weekly to superiors 
+- Developed strong relationships with peers within a 6-week period
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
