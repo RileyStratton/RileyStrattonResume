@@ -48,10 +48,8 @@ __PRCCDC__, Online
 
 __Capture the Flag Events__
  
-`Jan 2022`
-- __PicoMini:__ stenography and python script puzzles
-`Feb 2022`
-- __DiceCTF:__ cryptography and application debugging puzzles
+- `Jan 2022` __PicoMini:__ stenography and python script puzzles
+- `Feb 2022` __DiceCTF:__ cryptography and application debugging puzzles
 
 ## Work Experience
 
