@@ -8,8 +8,8 @@ title: Riley Stratton's Resume
 <div id="webaddress">
 <a href="tel:435-494-8934">(435) 494-8934</a>
 | <a href="mailto:riley.s.stratton@outlook.com">riley.s.stratton@outlook.com</a>
-| <a href="https://www.linkedin.com/in/rileystratton/">LinkedIn</a>
-| <a href="https://github.com/RileyStratton">GitHub</a>
+| <a href="https://www.linkedin.com/in/rileystratton/">linkedin.com/in/RileyStratton</a>
+| <a href="https://github.com/RileyStratton">github.com/RileyStratton</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -41,7 +41,7 @@ __Peer-to-Peer Messaging__
 ## Cybersecurity
 
 `Apr 2022`
-__PRCCDC__, Online
+__Pacific Rim Collegiate Cyber Defense Competition__
 
 - Team Cybersecurity Defense Competition 
 - Our team took 4th place out of 13 teams
@@ -50,9 +50,8 @@ __PRCCDC__, Online
 
 __Capture the Flag__
  
-
-- `Jan 2022`  PicoMini: solved stenography and python script puzzles 
-- `Feb 2022`  DiceCTF: worked on cryptography and application debugging puzzles
+- `Jan 2022 ` PicoMini: solved stenography and python script puzzles 
+- `Feb 2022 ` DiceCTF: worked on cryptography and application debugging puzzles
 
 ## Experience
 
@@ -71,7 +70,7 @@ __Interstate Rock Products__, Heavy Machinery Operator
 - Adapted quickly to new machinery and jobsite situations, often switching jobsites monthly
 - Analyzed personal performance daily and applied new strategies to increase personal efficiency 
 
-## Volunteering
+## Volunteer
 
 `Apr 2020 - Present`
 __Cyber Security Association__, Offensive Lead
@@ -97,6 +96,6 @@ __Church of Jesus Christ of Latter-day Saints__, Full-time Volunteer Representat
 
 <!-- ### Footer
 
-Last updated: April 2022 -->
+Last updated: 14-Apr-2022 -->
 
 
