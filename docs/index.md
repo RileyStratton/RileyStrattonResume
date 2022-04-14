@@ -18,10 +18,9 @@ title: Riley Stratton's Resume
 `Sep 2020 - Apr 2023`
 __Brigham Young University - Idaho__, 3.44 GPA
 
-- Major: Computer Science
-- Minor: Computer Information Technology
+- Major: Computer Science | Minor: Computer Information Technology
 
-## Programming Projects
+## Projects
 
 `Mar 2021 - Mar 2022`
 __Legal Plotter__
@@ -47,7 +46,7 @@ __Pacific Rim Collegiate Cyber Defense Competition__
 
 __Capture the Flag__
  
-- `Jan 2022   ` PicoMini: solved stenography and python script puzzles 
+- `Jan 2022   ` PicoMini: solved steganography and python script puzzles 
 - `Feb 2022   ` DiceCTF: worked on cryptography and application debugging puzzles
 
 ## Experience
