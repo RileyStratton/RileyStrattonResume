@@ -29,7 +29,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Legal Plotter__
 
 - Developed as a Python script and later refactored into a C# plugin for AutoCAD
-- Accepts user input legal description, parses and calculates points, and plots into AutoCAD
+- Accepts user input legal description, parses and calculates points, then plots into AutoCAD
 - [Check out Legal Plotter on GitHub](https://github.com/rileystratton/legalplotter)
 
 `Jan 2022`
@@ -50,8 +50,8 @@ __PRCCDC__, Online
 
 __Capture the Flag__
  
-`Jan 2022`  
-- PicoMini: solved stenography and python script puzzles
+`Jan 2022`
+- PicoMini: solved stenography and python script puzzles 
 `Feb 2022`
 - DiceCTF: worked on cryptography and application debugging puzzles
 
