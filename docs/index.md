@@ -52,6 +52,7 @@ __Capture the Flag__
  
 `Jan 2022`  
 - __PicoMini:__ solved stenography and python script puzzles
+
 `Feb 2022`
 - __DiceCTF:__ worked on cryptography and application debugging puzzles
 
