@@ -22,11 +22,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.44 GPA
 - Major: Computer Science
 - Minor: Computer Information Technology
-- Cyber Security Asociation Meeting Coordinator
 
-## Programming Projects
+## Software Development
 
-`March 2021 - March 2022`
+`Mar 2021 - Mar 2022`
 __Legal Plotter__
 
 - Developed as a Python script and later refactored into a C# plugin for AutoCAD
@@ -39,17 +38,22 @@ __Peer-to-Peer Messaging__
 - Developed in Python, utilizing peer-to-peer connections, tKinter GUI, and the Sockets library.
 - [Check out Peer-to-Peer Messaging on GitHub](https://github.com/rileystratton/networking)
 
-## Cyber Security Events
+## Cybersecurity
 
 `Apr 2022`
 __PRCCDC__, Online
 
-- Cyber defense "blue team" competition 
+- Team Cybersecurity Defense Competition 
+- Our team took 4th place out of 13 teams
+- Remotely connected to Linux machines to harden machines and change passwords
+- Modified SQL tables to bring our wordpress website back online
 
-__Capture the Flag Events__
+__Capture the Flag__
  
-- `Jan 2022` __PicoMini:__ stenography and python script puzzles
-- `Feb 2022` __DiceCTF:__ cryptography and application debugging puzzles
+`Jan 2022`  
+- __PicoMini:__ solved stenography and python script puzzles
+`Feb 2022`
+- __DiceCTF:__ worked on cryptography and application debugging puzzles
 
 ## Work Experience
 
@@ -83,6 +87,6 @@ __Full-time Volunteer Representative__, Atlanta, Georgia
 
 <!-- ### Footer
 
-Last updated: March 2022 -->
+Last updated: April 2022 -->
 
 
