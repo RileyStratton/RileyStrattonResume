@@ -23,7 +23,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Major: Computer Science
 - Minor: Computer Information Technology
 
-## Software Development
+## Projects
 
 `Mar 2021 - Mar 2022`
 __Legal Plotter__
@@ -51,12 +51,11 @@ __PRCCDC__, Online
 __Capture the Flag__
  
 `Jan 2022`  
-- __PicoMini:__ solved stenography and python script puzzles
-
+- PicoMini: solved stenography and python script puzzles
 `Feb 2022`
-- __DiceCTF:__ worked on cryptography and application debugging puzzles
+- DiceCTF: worked on cryptography and application debugging puzzles
 
-## Work Experience
+## Work
 
 `Feb 2020 - Feb 2021`
 __ProValue Engineering__, CAD Engineering Assistant
@@ -73,10 +72,21 @@ __Interstate Rock Products__, Heavy Machinery Operator
 - Adapted quickly to new machinery and jobsite situations, often switching jobsites monthly
 - Analyzed personal performance daily and applied new strategies to increase personal efficiency 
 
-## Volunteer Experience
+## Volunteering
+
+`Apr 2020 - Present`
+__Cyber Security Association__, Offensive Lead
+- Prepared bi-weekly presentations on offensive tools
+- Explained and demonstrated how these tools are used in real-world situations
+- Guided and enabled others to complete proof-of-concept exercises
+
+`Jan 2020 - Apr 2020`
+__Cyber Security Association__, Meeting Coordinator
+- Reserved rooms for our association to meet three times a week
+- Attended every meeting in a three month period
 
 `Mar 2018 - Apr 2020`
-__Full-time Volunteer Representative__, Atlanta, Georgia
+__Church of Jesus Christ of Latter-day Saints__, Full-time Volunteer Representative
 
 - Offered to teach life help lessons with 50+ people weekly
 - Developed skills to persevere through rejection by greater than 50% of people
