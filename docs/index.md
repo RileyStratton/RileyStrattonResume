@@ -46,8 +46,8 @@ __Pacific Rim Collegiate Cyber Defense Competition__
 
 __Capture the Flag__
  
-- `Jan 2022   ` PicoMini: solved steganography and python script puzzles 
-- `Feb 2022   ` DiceCTF: worked on cryptography and application debugging puzzles
+- `Jan 2022 ` PicoMini: solved steganography and python script puzzles 
+- `Feb 2022 ` DiceCTF: worked on cryptography and application debugging puzzles
 
 ## Experience
 
