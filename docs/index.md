@@ -8,7 +8,8 @@ title: Riley Stratton's Resume
 <div id="webaddress">
 <a href="tel:435-494-8934">(435) 494-8934</a>
 | <a href="mailto:riley.s.stratton@outlook.com">riley.s.stratton@outlook.com</a>
-| <a href="https://www.linkedin.com/in/rileystratton/">linkedin.com/in/RileyStratton</a>
+| <a href="https://www.linkedin.com/in/RileyStratton/">LinkedIn</a>
+| <a href="https://github.com/RileyStratton">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -18,7 +19,8 @@ title: Riley Stratton's Resume
 `Sep 2020 - Apr 2023`
 __Brigham Young University - Idaho__, 3.44 GPA
 
-- Major: Computer Science | Minor: Computer Information Technology
+- Major: Computer Science
+- Minor: Computer Information Technology
 
 ## Projects
 
@@ -46,12 +48,12 @@ __Pacific Rim Collegiate Cyber Defense Competition__
 
 __Capture the Flag__
  
-- `Jan 2022 ` PicoMini: solved steganography and python script puzzles 
 - `Feb 2022 ` DiceCTF: worked on cryptography and application debugging puzzles
+- `Jan 2022 ` PicoMini: solved steganography and python script puzzles 
 
 ## Experience
 
-`Feb 2020 - Feb 2021`
+`Feb 2021 - Feb 2022`
 __ProValue Engineering__, CAD Engineering Assistant
 
 - Designed subdivisions and other civil projects, balancing work between 5-10 projects
@@ -68,13 +70,13 @@ __Interstate Rock Products__, Heavy Machinery Operator
 
 ## Volunteer
 
-`Apr 2020 - Present`
+`Apr 2022 - Present`
 __Cyber Security Association__, Offensive Lead
 - Prepared bi-weekly presentations on offensive tools
 - Explained and demonstrated how these tools are used in real-world situations
 - Guided and enabled others to complete proof-of-concept exercises
 
-`Jan 2020 - Apr 2020`
+`Jan 2022 - Apr 2022`
 __Cyber Security Association__, Meeting Coordinator
 - Reserved rooms for our association to meet three times a week
 - Attended every meeting in a three month period
