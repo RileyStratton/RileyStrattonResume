@@ -15,10 +15,9 @@ title: Riley Stratton's Resume
 
 ## Education
 
-`Sep 2020 - Present`
-__Brigham Young University - Idaho__, Rexburg, ID
+`Sep 2020 - Apr 2023`
+__Brigham Young University - Idaho__, 3.44 GPA
 
-- 3.44 GPA
 - Major: Computer Science
 - Minor: Computer Information Technology
 
@@ -82,7 +81,7 @@ __Cyber Security Association__, Meeting Coordinator
 - Attended every meeting in a three month period
 
 `Mar 2018 - Apr 2020`
-__Church of Jesus Christ of Latter-day Saints__, Full-time Volunteer Representative
+__Church of Jesus Christ of Latter-day Saints__, Full-time Representative
 
 - Offered to teach life help lessons with 50+ people weekly
 - Developed skills to persevere through rejection by greater than 50% of people
