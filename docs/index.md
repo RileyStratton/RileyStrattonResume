@@ -9,7 +9,6 @@ title: Riley Stratton's Resume
 <a href="tel:435-494-8934">(435) 494-8934</a>
 | <a href="mailto:riley.s.stratton@outlook.com">riley.s.stratton@outlook.com</a>
 | <a href="https://www.linkedin.com/in/rileystratton/">linkedin.com/in/RileyStratton</a>
-| <a href="https://github.com/RileyStratton">github.com/RileyStratton</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -42,16 +41,15 @@ __Peer-to-Peer Messaging__
 
 `Apr 2022`
 __Pacific Rim Collegiate Cyber Defense Competition__
-
-- Team Cybersecurity Defense Competition 
+ 
 - Our team took 4th place out of 13 teams
-- Remotely connected to Linux machines to harden machines
+- Remotely connected to Linux  machines to harden the network
 - Modified SQL tables to bring our wordpress website back online
 
 __Capture the Flag__
  
-- `Jan 2022 ` PicoMini: solved stenography and python script puzzles 
-- `Feb 2022 ` DiceCTF: worked on cryptography and application debugging puzzles
+- `Jan 2022  ` PicoMini: solved stenography and python script puzzles 
+- `Feb 2022  ` DiceCTF: worked on cryptography and application debugging puzzles
 
 ## Experience
 
