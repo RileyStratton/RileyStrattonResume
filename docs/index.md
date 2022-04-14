@@ -45,17 +45,16 @@ __PRCCDC__, Online
 
 - Team Cybersecurity Defense Competition 
 - Our team took 4th place out of 13 teams
-- Remotely connected to Linux machines to harden machines and change passwords
+- Remotely connected to Linux machines to harden machines
 - Modified SQL tables to bring our wordpress website back online
 
 __Capture the Flag__
  
-`Jan 2022`
-- PicoMini: solved stenography and python script puzzles 
-`Feb 2022`
-- DiceCTF: worked on cryptography and application debugging puzzles
 
-## Work
+- `Jan 2022`  PicoMini: solved stenography and python script puzzles 
+- `Feb 2022`  DiceCTF: worked on cryptography and application debugging puzzles
+
+## Experience
 
 `Feb 2020 - Feb 2021`
 __ProValue Engineering__, CAD Engineering Assistant
