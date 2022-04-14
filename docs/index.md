@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, 3.44 GPA
 - Major: Computer Science
 - Minor: Computer Information Technology
 
-## Projects
+## Programming Projects
 
 `Mar 2021 - Mar 2022`
 __Legal Plotter__
@@ -36,7 +36,7 @@ __Peer-to-Peer Messaging__
 - Developed in Python, utilizing peer-to-peer connections, tKinter GUI, and the Sockets library.
 - [Check out Peer-to-Peer Messaging on GitHub](https://github.com/rileystratton/networking)
 
-## Cybersecurity
+## Cyber Security
 
 `Apr 2022`
 __Pacific Rim Collegiate Cyber Defense Competition__
@@ -47,8 +47,8 @@ __Pacific Rim Collegiate Cyber Defense Competition__
 
 __Capture the Flag__
  
-- `Jan 2022  ` PicoMini: solved stenography and python script puzzles 
-- `Feb 2022  ` DiceCTF: worked on cryptography and application debugging puzzles
+- `Jan 2022   ` PicoMini: solved stenography and python script puzzles 
+- `Feb 2022   ` DiceCTF: worked on cryptography and application debugging puzzles
 
 ## Experience
 
