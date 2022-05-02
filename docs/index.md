@@ -8,8 +8,8 @@ title: Riley Stratton's Resume
 <div id="webaddress">
 <a href="tel:435-494-8934">(435) 494-8934</a>
 | <a href="mailto:riley.s.stratton@outlook.com">riley.s.stratton@outlook.com</a>
-| <a href="https://www.linkedin.com/in/RileyStratton/">LinkedIn</a>
-| <a href="https://github.com/RileyStratton">GitHub</a>
+| <a href="https://www.LinkedIn.com/in/RileyStratton/">LinkedIn</a>
+| <a href="https://GitHub.com/RileyStratton/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -29,13 +29,13 @@ __Legal Plotter__
 
 - Developed as a Python script and later refactored into a C# plugin for AutoCAD
 - Accepts user input legal description, parses and calculates points, then plots into AutoCAD
-- [Check out Legal Plotter on GitHub](https://github.com/rileystratton/legalplotter)
+- [Check out Legal Plotter on GitHub](https://GitHub.com/RileyStratton/LegalPlotter)
 
 `Jan 2022`
 __Peer-to-Peer Messaging__
 
 - Developed in Python, utilizing peer-to-peer connections, tKinter GUI, and the Sockets library.
-- [Check out Peer-to-Peer Messaging on GitHub](https://github.com/rileystratton/networking)
+- [Check out Peer-to-Peer Messaging on GitHub](https://GitHub.com/RileyStratton/Networking)
 
 ## Cyber Security
 
@@ -71,7 +71,7 @@ __Interstate Rock Products__, Heavy Machinery Operator
 ## Volunteer
 
 `Apr 2022 - Present`
-__Cyber Security Association__, Offensive Lead
+__Cyber Security Association__, VP & Offensive Lead
 - Prepared bi-weekly presentations on offensive tools
 - Explained and demonstrated how these tools are used in real-world situations
 - Guided and enabled others to complete proof-of-concept exercises
