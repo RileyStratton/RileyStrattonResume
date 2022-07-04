@@ -29,12 +29,12 @@ __Legal Plotter__
 
 - Developed as a Python script and later refactored into a C# plugin for AutoCAD
 - Accepts user input legal description, parses and calculates points, then plots into AutoCAD
-- [Check out Legal Plotter on GitHub](https://GitHub.com/RileyStratton/LegalPlotter)
+- [github.com/RileyStratton/LegalPlotter](https://github.com/RileyStratton/LegalPlotter)
 
 `Jan 2022`
 __Peer-to-Peer Messaging__
 
-- Developed in Python, utilizing peer-to-peer connections, tKinter GUI, and the Sockets library.
+- Developed in Python, utilizing peer-to-peer connections, tKinter GUI, and the Sockets library
 - [Check out Peer-to-Peer Messaging on GitHub](https://GitHub.com/RileyStratton/Networking)
 
 ## Cyber Security
